@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "mhmzdev-666"
-  }
+    "default": "mhmzdev-666",
+    "uday-raj-verma": "uday-raj-verma"
+  },
+  "targets": {},
+  "etags": {}
 }
