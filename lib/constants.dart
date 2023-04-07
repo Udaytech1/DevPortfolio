@@ -11,8 +11,9 @@ final kTools = [
   "Java",
   "Kotlin",
   "XML",
+  "Jetpack component",
+  "Jetpack Compose",
   "C",
   "git",
   "firebase",
-  "local db (Sqlite)",
 ];

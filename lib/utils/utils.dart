@@ -10,15 +10,13 @@ class StaticUtils {
   static const String hi = 'assets/hi.gif';
 
   // photos
-  static const String mobilePhoto = 'assets/photos/mobile.png';
+  static const String mobilePhoto = 'assets/photos/mobile.jpg';
   static const String coloredPhoto = 'assets/photos/colored.png';
   static const String blackWhitePhoto = 'assets/photos/black-white.png';
 
   // work
-  static const String dsc = 'assets/work/dsc.png';
-  static const String sastaticket = 'assets/work/st.png';
-  static const String university = 'assets/work/cui.png';
-  static const String fullterIsb = 'assets/work/flutterIsl.png';
+  static const String skyview = 'assets/work/skyview.png';
+  static const String tribyss = 'assets/work/tribyss.png';
 
   // services
   static const String uiux = 'assets/services/ui.png';
@@ -47,7 +45,7 @@ class StaticUtils {
   ];
 
   static const String resume =
-      'https://drive.google.com/file/d/11u02VxbgFJXoAf_wZgQO7PbvcdRMAso1/view?usp=sharing';
+      'https://drive.google.com/file/d/1A7_m0R0thxPmKFBt22q5Oje5RZdD2AVb/view?usp=sharing';
 
   static const String gitHub = 'https://github.com/Udaytech1';
 }

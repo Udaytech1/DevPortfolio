@@ -105,8 +105,8 @@ class AboutDesktop extends StatelessWidget {
                                 information: "Uday Raj Verma",
                               ),
                               AboutMeData(
-                                data: "Age",
-                                information: "21",
+                                data: "Birth yeat",
+                                information: "2002",
                               ),
                             ],
                           ),

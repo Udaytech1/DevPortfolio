@@ -3,5 +3,8 @@ class AboutUtils {
       'I\'m Uday Raj Verma, an Android developer.';
 
   static const String aboutMeDetail =
-      'I\'m a Fresh Graduate with Computer Science as Majors from BSSITM University, Lucknow. I have been developing mobile apps for over 2 years now. I have worked in teams for various startups and helped them in launching their prototypes and got valuable learning experience. Been a former  Google Developer Student Clubs (DSC) lead and also CEO/Co-Founder Flutter Lucknow, India. Currently working as Associate Software Engineer at Skyview Smart Solution';
+      'Hello everyone, I’m Uday Raj, and I’m excited to be here with you today. I am an Android developer with 2 years of experience.'
+      'I have Completed my diploma in Computer Science in the year 2020.'
+      'I have worked at Sky-view Smart Solution which is located in Lucknow Uttar Pradesh. During this time, I have been involved in developing and designing mobile applications for various clients.I have experience in developing applications for different domains such as e-commerce, Appointment booking, Audio/Video Player, Event Management and POS Applications'
+      'I’m well-versed in the entire application development lifecycle, from idea level to launching them on the Google Play Store.';
 }

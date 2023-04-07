@@ -61,7 +61,7 @@ flutter:
     - assets/photos/
     - assets/services/
     - assets/projects/
-
+    - assets/work/skyview.png
     - data.json
 
   fonts:
