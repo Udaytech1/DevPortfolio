@@ -20,9 +20,9 @@ class Footer extends StatelessWidget {
               "Developed in 💙 with ",
             ),
             InkWell(
-              onTap: () => openURL("https://github.com/mhmzdev/DevFolio"),
+              onTap: () => openURL("https://github.com/Udaytech1"),
               child: const Text(
-                "Flutter",
+                "Android/Flutter",
                 style: TextStyle(color: Colors.blue),
               ),
             )

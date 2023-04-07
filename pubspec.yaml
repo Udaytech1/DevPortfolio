@@ -62,8 +62,7 @@ flutter:
     - assets/services/
     - assets/projects/
     - assets/work/skyview.png
-    - data.json
-
+    -
   fonts:
     - family: Agustina
       fonts:
